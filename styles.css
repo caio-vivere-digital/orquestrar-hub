@@ -1264,7 +1264,7 @@ main {
   }
 
   .brand {
-    top: clamp(300px, 68vh, 420px);
+    top: 20px;
     left: 0;
     right: 0;
     text-align: center;
@@ -1272,7 +1272,7 @@ main {
   }
 
   .brand__name {
-    font-size: clamp(36px, 10vw, 52px);
+    font-size: clamp(20px, 5.5vw, 28px);
   }
 
   .hero h1 {
