@@ -183,7 +183,6 @@ main {
 }
 
 .hero__content {
-  position: relative;
   z-index: 2;
   width: min(1380px, 100%);
   display: grid;
